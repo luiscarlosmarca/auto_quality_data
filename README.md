@@ -13,12 +13,13 @@ Como administrador del portal, quiero generar un reporte con los datos específi
 
 
 ### Formato del CSV para Generación del Reporte
-```csv
+
 | age | job          | marital | education | default | balance | housing | loan | contact  | day | month | duration | campaign | pdays | previous | poutcome | y   |
 |-----|--------------|---------|-----------|---------|---------|---------|------|----------|-----|-------|----------|----------|-------|----------|----------|-----|
 | 30  | unemployed   | married | primary   | no      | 1787    | no      | no   | cellular | 19  | oct   | 79       | 1        | -1    | 0        | unknown  | no  |
 
-### Configuración de Great Expectations
+
+###  Configuración de Great Expectations
 
 Este repositorio se centra en la automatización de pruebas de calidad de datos utilizando Great Expectations. Sigue los pasos a continuación para configurar y ejecutar el proyecto.
 
