@@ -19,6 +19,10 @@ Como administrador del portal, quiero generar un reporte con los datos específi
 | 30  | unemployed   | married | primary   | no      | 1787    | no      | no   | cellular | 19  | oct   | 79       | 1        | -1    | 0        | unknown  | no  |
 
 
+### *** Pre-requisitos:**
+- Python instalado (versión 3.11)
+- PIP (Python Package Installer) instalado (23.0.1)
+
 ###  Configuración de Great Expectations
 
 Este repositorio se centra en la automatización de pruebas de calidad de datos utilizando Great Expectations. Sigue los pasos a continuación para configurar y ejecutar el proyecto.
