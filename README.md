@@ -30,7 +30,7 @@ Este repositorio se centra en la automatización de pruebas de calidad de datos 
 #### Instalación
 ```
 pip3 install great_expectations
-greate_expectations --version
+great_expectations --version
 ```
 
 ### Creacion del proyecto
@@ -49,14 +49,20 @@ great_expectations datasource new
 ### Creación de Suite
 
 ```
-great_expectations suite new
+great_expectations suite new name
 
+```
+
+### Editar suite
+
+```
+great_expectations suite edit name
 ```
 
 ### Creación de Checkpoint
 
 ```
-great_expectations checkpoint new
+great_expectations checkpoint new name
 
 ```
 
